@@ -10,9 +10,9 @@ if __name__ == "__main__":
 
     language_suffix = "en"
     analyzer_name = "en.microsoft"
-    index_name = "alta_index_with_suggester1"
+    index_name = "alta_index_with_xrefs_with_suggester1"
 
-    search_helper_alta.create_index(index_name, analyzer_name=analyzer_name, language_suffix=language_suffix)
+    #search_helper_alta.create_index(index_name, analyzer_name=analyzer_name, language_suffix=language_suffix)
 
     #search_helper.extract_pdf_data("german_document", "german_document_extracted_data")
 
@@ -28,7 +28,7 @@ if __name__ == "__main__":
     #print(len(aml_index_data_with_vectors))
     
     
-    search_helper_alta.upload_to_search(index_name, output_file_name, language_suffix=language_suffix)
+    #search_helper_alta.upload_to_search(index_name, output_file_name, language_suffix=language_suffix)
 
 
     #index_name = "alta_index_with_suggester"

@@ -402,6 +402,7 @@ def process_jsonldoc(jsonldoc, system_message):
             "section_title": doc["section_title"],
             "section_id": doc["section_id"],
             "keywords": json.dumps(doc["keywords"]),
+            "xrefs": json.dumps(doc.get("xrefs", [])),
             "para": doc["para"],
             "topics": json.dumps(llm_json["topics"]),
             "summary": llm_json["summary"],

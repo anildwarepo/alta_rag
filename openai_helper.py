@@ -141,6 +141,8 @@ def getOpenAIResp(userQuery, systemMessage=system_message, deployed_model=azure_
             max_tokens=4000,
             stream=streaming)
     #print(completion.choices[0].message.content)
+    print(completion.prompt_filter_results)
+    
     if streaming:
         return completion
     else:
