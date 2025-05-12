@@ -1,0 +1,28 @@
+title,text
+noise 97,"{
+  ""id"": 704.0097,
+  ""submitter"": ""Yasuyuki Kawahigashi"",
+  ""authors"": ""Yasuyuki Kawahigashi"",
+  ""title"": ""Conformal Field Theory and Operator Algebras"",
+  ""comments"": ""For the Proceedings of ICMP (Rio de Janeiro, 2006)."",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math-ph math.MP math.OA"",
+  ""license"": null,
+  ""abstract"": ""  We review recent progress in operator algebraic approach to conformal quantum\nfield theory. Our emphasis is on use of representation theory in classification\ntheory. This is based on a series of joint works with R. Longo.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 18:02:55 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Kawahigashi"",
+      ""Yasuyuki"",
+      """"
+    ]
+  ]
+}"

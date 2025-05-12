@@ -1,0 +1,42 @@
+title,text
+noise 106,"{
+  ""id"": 704.0106,
+  ""submitter"": ""Xin-Nian Wang"",
+  ""authors"": ""Andreas Schafer, Xin-Nian Wang and Ben-Wei Zhang"",
+  ""title"": ""Multiple Parton Scattering in Nuclei: Quark-quark Scattering"",
+  ""comments"": ""49 pages in elsart style and 16 figures. Two sentences added, final\n  version appeared in Nucl. Phys. A"",
+  ""journal-ref"": ""Nucl.Phys.A793:128-170,2007"",
+  ""doi"": ""10.1016/j.nuclphysa.2007.06.009"",
+  ""report-no"": null,
+  ""categories"": ""hep-ph nucl-th"",
+  ""license"": null,
+  ""abstract"": ""  Modifications to quark and antiquark fragmentation functions due to\nquark-quark (antiquark) double scattering in nuclear medium are studied\nsystematically up to order \\cal{O}(\\alpha_{s}^2)$ in deeply inelastic\nscattering (DIS) off nuclear targets. At the order $\\cal{O}(\\alpha_s^2)$,\ntwist-four contributions from quark-quark (antiquark) rescattering also exhibit\nthe Landau-Pomeranchuck-Midgal (LPM) interference feature similar to gluon\nbremsstrahlung induced by multiple parton scattering. Compared to quark-gluon\nscattering, the modification, which is dominated by $t$-channel quark-quark\n(antiquark) scattering, is only smaller by a factor of $C_F/C_A=4/9$ times the\nratio of quark and gluon distributions in the medium. Such a modification is\nnot negligible for realistic kinematics and finite medium size. The\nmodifications to quark (antiquark) fragmentation functions from quark-antiquark\nannihilation processes are shown to be determined by the antiquark (quark)\ndistribution density in the medium. The asymmetry in quark and antiquark\ndistributions in nuclei will lead to different modifications of quark and\nantiquark fragmentation functions inside a nucleus, which qualitatively\nexplains the experimentally observed flavor dependence of the leading hadron\nsuppression in semi-inclusive DIS off nuclear targets. The quark-antiquark\nannihilation processes also mix quark and gluon fragmentation functions in the\nlarge fractional momentum region, leading to a flavor dependence of jet\nquenching in heavy-ion collisions.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 21:10:09 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Fri, 9 Nov 2007 12:13:16 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Schafer"",
+      ""Andreas"",
+      """"
+    ],
+    [
+      ""Wang"",
+      ""Xin-Nian"",
+      """"
+    ],
+    [
+      ""Zhang"",
+      ""Ben-Wei"",
+      """"
+    ]
+  ]
+}"

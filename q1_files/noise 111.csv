@@ -1,0 +1,28 @@
+title,text
+noise 111,"{
+  ""id"": 704.0111,
+  ""submitter"": ""Debashish Goswami"",
+  ""authors"": ""Debashish Goswami"",
+  ""title"": ""Invariance and the twisted Chern character : a case study"",
+  ""comments"": ""to appear in the proceedings of the conference `Traces in Geometry,\n  Number Theory and Quantum Fields' held in MPI (Bonn), 2005."",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.QA math.KT"",
+  ""license"": null,
+  ""abstract"": ""  We give details of the proof of the remark made in \\cite{G2} that the Chern\ncharacters of the canonical generators on the K homology of the quantum group\n$SU_q(2)$ are not invariant under the natural $SU_q(2)$ coaction. Furthermore,\nthe conjecture made in \\cite{G2} about the nontriviality of the twisted Chern\ncharacter coming from an odd equivariant spectral triple on $SU_q(2)$ is\nsettled in the affirmative.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Mon, 2 Apr 2007 00:53:38 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Goswami"",
+      ""Debashish"",
+      """"
+    ]
+  ]
+}"

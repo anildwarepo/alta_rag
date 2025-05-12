@@ -1,0 +1,36 @@
+title,text
+noise 40,"{
+  ""id"": 704.004,
+  ""submitter"": ""Mihai Popa"",
+  ""authors"": ""Mihai Popa"",
+  ""title"": ""Multilinear function series in conditionally free probability with\n  amalgamation"",
+  ""comments"": ""Final version, published"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.OA math.FA"",
+  ""license"": ""http://arxiv.org/licenses/nonexclusive-distrib/1.0/"",
+  ""abstract"": ""  As in the cases of freeness and monotonic independence, the notion of\nconditional freeness is meaningful when complex-valued states are replaced by\npositive conditional expectations. In this framework, the paper presents\nseveral positivity results, a version of the central limit theorem and an\nanalogue of the conditionally free R-transform constructed by means of\nmultilinear function series.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 17:05:04 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Wed, 18 Apr 2007 23:00:25 GMT""
+    },
+    {
+      ""version"": ""v3"",
+      ""created"": ""Fri, 5 Sep 2008 03:11:45 GMT""
+    }
+  ],
+  ""update_date"": ""2008-09-05"",
+  ""authors_parsed"": [
+    [
+      ""Popa"",
+      ""Mihai"",
+      """"
+    ]
+  ]
+}"

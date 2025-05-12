@@ -1,0 +1,33 @@
+title,text
+noise 54,"{
+  ""id"": 704.0054,
+  ""submitter"": ""Alberto Torchinsky"",
+  ""authors"": ""Wael Abu-Shammala and Alberto Torchinsky"",
+  ""title"": ""The Hardy-Lorentz Spaces $H^{p,q}(R^n)$"",
+  ""comments"": null,
+  ""journal-ref"": ""Studia Math. 182 (2007) no. 3, 283-294"",
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.CA math.FA"",
+  ""license"": null,
+  ""abstract"": ""  In this paper we consider the Hardy-Lorentz spaces $H^{p,q}(R^n)$, with\n$0<p\\le 1$, $0<q\\le \\infty$. We discuss the atomic decomposition of the\nelements in these spaces, their interpolation properties, and the behavior of\nsingular integrals and other operators acting on them.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Mon, 2 Apr 2007 18:14:21 GMT""
+    }
+  ],
+  ""update_date"": ""2013-10-15"",
+  ""authors_parsed"": [
+    [
+      ""Abu-Shammala"",
+      ""Wael"",
+      """"
+    ],
+    [
+      ""Torchinsky"",
+      ""Alberto"",
+      """"
+    ]
+  ]
+}"

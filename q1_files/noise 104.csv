@@ -1,0 +1,33 @@
+title,text
+noise 104,"{
+  ""id"": 704.0104,
+  ""submitter"": ""Michele Grassi"",
+  ""authors"": ""Giovanni Gaiffi, Michele Grassi"",
+  ""title"": ""A geometric realization of sl(6,C)"",
+  ""comments"": ""16 pages, no figures"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.DG math.RT"",
+  ""license"": null,
+  ""abstract"": ""  Given an orientable weakly self-dual manifold X of rank two, we build a\ngeometric realization of the Lie algebra sl(6,C) as a naturally defined algebra\nL of endomorphisms of the space of differential forms of X. We provide an\nexplicit description of Serre generators in terms of natural generators of L.\nThis construction gives a bundle on X which is related to the search for a\nnatural Gauge theory on X. We consider this paper as a first step in the study\nof a rich and interesting algebraic structure.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 19:52:31 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Gaiffi"",
+      ""Giovanni"",
+      """"
+    ],
+    [
+      ""Grassi"",
+      ""Michele"",
+      """"
+    ]
+  ]
+}"

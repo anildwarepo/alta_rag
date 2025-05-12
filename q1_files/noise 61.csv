@@ -1,0 +1,32 @@
+title,text
+noise 61,"{
+  ""id"": 704.0061,
+  ""submitter"": ""Boris Rubin"",
+  ""authors"": ""Boris Rubin"",
+  ""title"": ""Intersection Bodies and Generalized Cosine Transforms"",
+  ""comments"": ""38 pages"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.FA"",
+  ""license"": null,
+  ""abstract"": ""  Intersection bodies represent a remarkable class of geometric objects\nassociated with sections of star bodies and invoking\n  Radon transforms, generalized cosine transforms, and the relevant Fourier\nanalysis. The main focus of this article is interrelation between generalized\ncosine transforms of different kinds in the context of their application to\ninvestigation of a certain family of intersection bodies, which we call\n$\\lam$-intersection bodies. The latter include $k$-intersection bodies (in the\nsense of A. Koldobsky) and unit balls of finite-dimensional subspaces of\n$L_p$-spaces. In particular, we show that restrictions onto lower dimensional\nsubspaces of the spherical Radon transforms and the generalized cosine\ntransforms preserve their integral-geometric structure. We apply this result to\nthe study of sections of $\\lam$-intersection bodies. New characterizations of\nthis class of bodies are obtained and examples are given. We also review some\nknown facts and give them new proofs.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 22:45:05 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Thu, 3 May 2007 18:03:34 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Rubin"",
+      ""Boris"",
+      """"
+    ]
+  ]
+}"

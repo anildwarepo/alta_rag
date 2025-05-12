@@ -1,0 +1,28 @@
+title,text
+noise 69,"{
+  ""id"": 704.0069,
+  ""submitter"": ""John Robertson"",
+  ""authors"": ""John W. Robertson"",
+  ""title"": ""Dynamical Objects for Cohomologically Expanding Maps"",
+  ""comments"": ""38 pages"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.DS"",
+  ""license"": null,
+  ""abstract"": ""  The goal of this paper is to construct invariant dynamical objects for a (not\nnecessarily invertible) smooth self map of a compact manifold. We prove a\nresult that takes advantage of differences in rates of expansion in the terms\nof a sheaf cohomological long exact sequence to create unique lifts of finite\ndimensional invariant subspaces of one term of the sequence to invariant\nsubspaces of the preceding term. This allows us to take invariant cohomological\nclasses and under the right circumstances construct unique currents of a given\ntype, including unique measures of a given type, that represent those classes\nand are invariant under pullback. A dynamically interesting self map may have a\nplethora of invariant measures, so the uniquess of the constructed currents is\nimportant. It means that if local growth is not too big compared to the growth\nrate of the cohomological class then the expanding cohomological class gives\nsufficient \""marching orders\"" to the system to prohibit the formation of any\nother such invariant current of the same type (say from some local dynamical\nsubsystem). Because we use subsheaves of the sheaf of currents we give\nconditions under which a subsheaf will have the same cohomology as the sheaf\ncontaining it. Using a smoothing argument this allows us to show that the sheaf\ncohomology of the currents under consideration can be canonically identified\nwith the deRham cohomology groups. Our main theorem can be applied in both the\nsmooth and holomorphic setting.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 06:48:47 GMT""
+    }
+  ],
+  ""update_date"": ""2010-01-08"",
+  ""authors_parsed"": [
+    [
+      ""Robertson"",
+      ""John W."",
+      """"
+    ]
+  ]
+}"

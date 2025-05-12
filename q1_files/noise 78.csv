@@ -1,0 +1,38 @@
+title,text
+noise 78,"{
+  ""id"": 704.0078,
+  ""submitter"": ""Raul Vera"",
+  ""authors"": ""Marc Mars, Filipe C. Mena, Raul Vera"",
+  ""title"": ""Linear perturbations of matched spacetimes: the gauge problem and\n  background symmetries"",
+  ""comments"": ""18 pages, plain LaTeX file"",
+  ""journal-ref"": ""Class.Quant.Grav.24:3673-3690,2007"",
+  ""doi"": ""10.1088/0264-9381/24/14/008"",
+  ""report-no"": null,
+  ""categories"": ""gr-qc"",
+  ""license"": null,
+  ""abstract"": ""  We present a critical review about the study of linear perturbations of\nmatched spacetimes including gauge problems. We analyse the freedom introduced\nin the perturbed matching by the presence of background symmetries and revisit\nthe particular case of spherically symmetry in n-dimensions. This analysis\nincludes settings with boundary layers such as brane world models and shell\ncosmologies.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 10:08:25 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Mars"",
+      ""Marc"",
+      """"
+    ],
+    [
+      ""Mena"",
+      ""Filipe C."",
+      """"
+    ],
+    [
+      ""Vera"",
+      ""Raul"",
+      """"
+    ]
+  ]
+}"

@@ -1,0 +1,43 @@
+title,text
+noise 55,"{
+  ""id"": 704.0055,
+  ""submitter"": ""Per Hyldgaard"",
+  ""authors"": ""Eleni Ziambaras, Jesper Kleis, Elsebeth Schroder, and Per Hyldgaard"",
+  ""title"": ""Potassium intercalation in graphite: A van der Waals density-functional\n  study"",
+  ""comments"": ""10 pages, 5 figures"",
+  ""journal-ref"": null,
+  ""doi"": ""10.1103/PhysRevB.76.155425"",
+  ""report-no"": null,
+  ""categories"": ""cond-mat.soft cond-mat.mtrl-sci"",
+  ""license"": null,
+  ""abstract"": ""  Potassium intercalation in graphite is investigated by first-principles\ntheory. The bonding in the potassium-graphite compound is reasonably well\naccounted for by traditional semilocal density functional theory (DFT)\ncalculations. However, to investigate the intercalate formation energy from\npure potassium atoms and graphite requires use of a description of the graphite\ninterlayer binding and thus a consistent account of the nonlocal dispersive\ninteractions. This is included seamlessly with ordinary DFT by a van der Waals\ndensity functional (vdW-DF) approach [Phys. Rev. Lett. 92, 246401 (2004)]. The\nuse of the vdW-DF is found to stabilize the graphite crystal, with crystal\nparameters in fair agreement with experiments. For graphite and\npotassium-intercalated graphite structural parameters such as binding\nseparation, layer binding energy, formation energy, and bulk modulus are\nreported. Also the adsorption and sub-surface potassium absorption energies are\nreported. The vdW-DF description, compared with the traditional semilocal\napproach, is found to weakly soften the elastic response.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 20:46:31 GMT""
+    }
+  ],
+  ""update_date"": ""2009-11-13"",
+  ""authors_parsed"": [
+    [
+      ""Ziambaras"",
+      ""Eleni"",
+      """"
+    ],
+    [
+      ""Kleis"",
+      ""Jesper"",
+      """"
+    ],
+    [
+      ""Schroder"",
+      ""Elsebeth"",
+      """"
+    ],
+    [
+      ""Hyldgaard"",
+      ""Per"",
+      """"
+    ]
+  ]
+}"

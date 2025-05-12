@@ -31,15 +31,14 @@ azure_openai_key2 = os.getenv("AZURE_OPENAI_KEY2", "") if len(os.getenv("AZURE_O
 azure_openai_deployment_name2 = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME2", "gpt-4o")
 
 client = AzureOpenAI(
-   api_version="2023-09-01-preview",
-   #azure_deployment=azure_openai_deployment_name,
+   api_version="2024-02-15-preview",
    azure_endpoint=azure_openai_endpoint,
    api_key=azure_openai_key,
    #azure_ad_token_provider=token_provider,   
 )
 
 client1 = AzureOpenAI(
-   api_version="2023-09-01-preview",
+   api_version="2024-02-15-preview",
    azure_deployment=azure_openai_deployment_name1,
    azure_endpoint=azure_openai_endpoint1,
    api_key=azure_openai_key1,
@@ -47,7 +46,7 @@ client1 = AzureOpenAI(
 )
 
 client2 = AzureOpenAI(
-   api_version="2023-09-01-preview",
+   api_version="2024-02-15-preview",
    azure_deployment=azure_openai_deployment_name2,
    azure_endpoint=azure_openai_endpoint2,
    api_key=azure_openai_key2,
@@ -150,12 +149,12 @@ def getOpenAIResp(userQuery, systemMessage=system_message, deployed_model=azure_
         return completion.choices[0].message.content
 
 
-def generate_embeddings(text_list, dimensions, model="text-embedding-ada-002"):
+async def generate_embeddings(text_list, model="text-embedding-ada-002"):
     try:
         # Send a batch of texts to the embedding API
         if text_list is None or len(text_list) == 0:
             return []
-
+        #print("embedding model:", model)
         embeddings = client.embeddings.create(input=text_list, model=model).data
         return embeddings
     

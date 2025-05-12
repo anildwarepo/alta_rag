@@ -1,0 +1,37 @@
+title,text
+noise 74,"{
+  ""id"": 704.0074,
+  ""submitter"": ""Jawad Y. Abuhlail"",
+  ""authors"": ""J. Y. Abuhlail, S. K. Nauman"",
+  ""title"": ""Injective Morita contexts (revisited)"",
+  ""comments"": null,
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.RA"",
+  ""license"": null,
+  ""abstract"": ""  This paper is an exposition of the so-called injective Morita contexts (in\nwhich the connecting bimodule morphisms are injective) and Morita\n$\\alpha$contexts (in which the connecting bimodules enjoy some local\nprojectivity in the sense of Zimmermann-Huisgen). Motivated by situations in\nwhich only one trace ideal is in action, or the compatibility between the\nbimodule morphisms is not needed, we introduce the notions of Morita\nsemi-contexts and Morita data, and investigate them. Injective Morita data will\nbe used (with the help of static and adstatic modules) to establish\nequivalences between some intersecting subcategories related to subcategories\nof modules that are localized or colocalized by trace ideals of a Morita datum.\nWe end up with applications of Morita $\\alpha$-contexts to $\\ast$-modules and\ninjective right wide Morita contexts.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 09:34:47 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Tue, 21 Aug 2007 21:54:33 GMT""
+    }
+  ],
+  ""update_date"": ""2007-08-22"",
+  ""authors_parsed"": [
+    [
+      ""Abuhlail"",
+      ""J. Y."",
+      """"
+    ],
+    [
+      ""Nauman"",
+      ""S. K."",
+      """"
+    ]
+  ]
+}"

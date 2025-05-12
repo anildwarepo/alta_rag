@@ -1,0 +1,37 @@
+title,text
+noise 57,"{
+  ""id"": 704.0057,
+  ""submitter"": ""Philipp Werner"",
+  ""authors"": ""Philipp Werner and Andrew J. Millis"",
+  ""title"": ""High-spin to low-spin and orbital polarization transitions in\n  multiorbital Mott systems"",
+  ""comments"": ""Published version"",
+  ""journal-ref"": ""Phys. Rev. Lett. 99, 126405 (2007)"",
+  ""doi"": ""10.1103/PhysRevLett.99.126405"",
+  ""report-no"": null,
+  ""categories"": ""cond-mat.str-el"",
+  ""license"": null,
+  ""abstract"": ""  We study the interplay of crystal field splitting and Hund coupling in a\ntwo-orbital model which captures the essential physics of systems with two\nelectrons or holes in the e_g shell. We use single site dynamical mean field\ntheory with a recently developed impurity solver which is able to access strong\ncouplings and low temperatures. The fillings of the orbitals and the location\nof phase boundaries are computed as a function of Coulomb repulsion, exchange\ncoupling and crystal field splitting. We find that the Hund coupling can drive\nthe system into a novel Mott insulating phase with vanishing orbital\nsusceptibility. Away from half-filling, the crystal field splitting can induce\nan orbital selective Mott state.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 19:58:35 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Wed, 19 Sep 2007 18:33:51 GMT""
+    }
+  ],
+  ""update_date"": ""2009-11-13"",
+  ""authors_parsed"": [
+    [
+      ""Werner"",
+      ""Philipp"",
+      """"
+    ],
+    [
+      ""Millis"",
+      ""Andrew J."",
+      """"
+    ]
+  ]
+}"

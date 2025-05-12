@@ -1,0 +1,28 @@
+title,text
+noise 88,"{
+  ""id"": 704.0088,
+  ""submitter"": ""Nikolay Tcherniega V."",
+  ""authors"": ""N.V.Tcherniega"",
+  ""title"": ""Some new experimental photonic flame effect features"",
+  ""comments"": ""9 pages, 10 figures, accepted for publication in JRLR"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""physics.optics"",
+  ""license"": null,
+  ""abstract"": ""  The results of the spectral, energetical and temporal characteristics of\nradiation in the presence of the photonic flame effect are presented.\nArtificial opal posed on Cu plate at the temperature of liquid nitrogen boiling\npoint (77 K) being irradiated by nanosecond ruby laser pulse produces long-\nterm luminiscence with a duration till ten seconds with a finely structured\nspectrum in the the antistocks part of the spectrum. Analogous visible\nluminescence manifesting time delay appeared in other samples of the artificial\nopals posed on the same plate. In the case of the opal infiltrated with\ndifferent nonlinear liquids the threshold of the luminiscence is reduced and\nthe spatial disribution of the bright emmiting area on the opal surface is\nbeing changed. In the case of the putting the frozen nonlinear liquids on the\nCu plate long-term blue bright luminiscence took place in the frozen species of\nthe liquids. Temporal characteristics of this luminiscence are nearly the same\nas in opal matrixes.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 14:10:51 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Tcherniega"",
+      ""N. V."",
+      """"
+    ]
+  ]
+}"

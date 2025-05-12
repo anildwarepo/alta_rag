@@ -1,0 +1,46 @@
+title,text
+noise 53,"{
+  ""id"": 704.0053,
+  ""submitter"": ""Nabil Youssef L"",
+  ""authors"": ""Nabil L. Youssef, S. H. Abed and A. Soleiman"",
+  ""title"": ""A Global Approach to the Theory of Special Finsler Manifolds"",
+  ""comments"": ""32 pages, LaTeX file, Abstract and Introduction modified. Journal-ref\n  removed (it was entered by mistake)"",
+  ""journal-ref"": ""J. Math. Kyoto Univ., 48 (2008), 857-893."",
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.DG gr-qc"",
+  ""license"": null,
+  ""abstract"": ""  The aim of the present paper is to provide a global presentation of the\ntheory of special Finsler manifolds. We introduce and investigate globally (or\nintrinsically, free from local coordinates) many of the most important and most\ncommonly used special Finsler manifolds: locally Minkowskian, Berwald,\nLandesberg, general Landesberg, $P$-reducible, $C$-reducible,\nsemi-$C$-reducible, quasi-$C$-reducible, $P^{*}$-Finsler, $C^{h}$-recurrent,\n$C^{v}$-recurrent, $C^{0}$-recurrent, $S^{v}$-recurrent, $S^{v}$-recurrent of\nthe second order, $C_{2}$-like, $S_{3}$-like, $S_{4}$-like, $P_{2}$-like,\n$R_{3}$-like, $P$-symmetric, $h$-isotropic, of scalar curvature, of constant\ncurvature, of $p$-scalar curvature, of $s$-$ps$-curvature. The global\ndefinitions of these special Finsler manifolds are introduced. Various\nrelationships between the different types of the considered special Finsler\nmanifolds are found. Many local results, known in the literature, are proved\nglobally and several new results are obtained. As a by-product, interesting\nidentities and properties concerning the torsion tensor fields and the\ncurvature tensor fields are deduced. Although our investigation is entirely\nglobal, we provide; for comparison reasons, an appendix presenting a local\ncounterpart of our global approach and the local definitions of the special\nFinsler spaces considered.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 20:14:41 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Sun, 8 Apr 2007 09:36:13 GMT""
+    },
+    {
+      ""version"": ""v3"",
+      ""created"": ""Thu, 6 Sep 2007 22:11:34 GMT""
+    }
+  ],
+  ""update_date"": ""2009-04-20"",
+  ""authors_parsed"": [
+    [
+      ""Youssef"",
+      ""Nabil L."",
+      """"
+    ],
+    [
+      ""Abed"",
+      ""S. H."",
+      """"
+    ],
+    [
+      ""Soleiman"",
+      ""A."",
+      """"
+    ]
+  ]
+}"

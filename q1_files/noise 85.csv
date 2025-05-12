@@ -1,0 +1,32 @@
+title,text
+noise 85,"{
+  ""id"": 704.0085,
+  ""submitter"": ""Partha Mukhopadhyay"",
+  ""authors"": ""Partha Mukhopadhyay"",
+  ""title"": ""A Universality in PP-Waves"",
+  ""comments"": ""LaTeX file, 43 pages, one reference added, minor changes made"",
+  ""journal-ref"": ""JHEP 0706:061,2007"",
+  ""doi"": ""10.1088/1126-6708/2007/06/061"",
+  ""report-no"": ""DAMTP-2007-30"",
+  ""categories"": ""hep-th"",
+  ""license"": null,
+  ""abstract"": ""  We discuss a universality property of any covariant field theory in\nspace-time expanded around pp-wave backgrounds. According to this property the\nspace-time lagrangian density evaluated on a restricted set of field\nconfigurations, called universal sector, turns out to be same around all the\npp-waves, even off-shell, with same transverse space and same profiles for the\nbackground scalars. In this paper we restrict our discussion to tensorial\nfields only. In the context of bosonic string theory we consider on-shell\npp-waves and argue that universality requires the existence of a universal\nsector of world-sheet operators whose correlation functions are insensitive to\nthe pp-wave nature of the metric and the background gauge flux. Such results\ncan also be reproduced using the world-sheet conformal field theory. We also\nstudy such pp-waves in non-polynomial closed string field theory (CSFT). In\nparticular, we argue that for an off-shell pp-wave ansatz with flat transverse\nspace and dilaton independent of transverse coordinates the field redefinition\nrelating the low energy effective field theory and CSFT with all the massive\nmodes integrated out is at most quadratic in fields. Because of this\nsimplification it is expected that the off-shell pp-waves can be identified on\nthe two sides. Furthermore, given the massless pp-wave field configurations, an\niterative method for computing the higher massive modes using the CSFT\nequations of motion has been discussed. All our bosonic string theory analyses\ncan be generalised to the common Neveu-Schwarz sector of superstrings.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 12:55:02 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Mon, 9 Apr 2007 12:06:19 GMT""
+    }
+  ],
+  ""update_date"": ""2009-11-13"",
+  ""authors_parsed"": [
+    [
+      ""Mukhopadhyay"",
+      ""Partha"",
+      """"
+    ]
+  ]
+}"

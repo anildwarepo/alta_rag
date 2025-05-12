@@ -1,0 +1,28 @@
+title,text
+noise 103,"{
+  ""id"": 704.0103,
+  ""submitter"": ""Gianluca Gemelli"",
+  ""authors"": ""Gianluca Gemelli"",
+  ""title"": ""Generalized regularly discontinuous solutions of the Einstein equations"",
+  ""comments"": ""26 pages."",
+  ""journal-ref"": ""Int.J.Theor.Phys.46:3312-3330,2007"",
+  ""doi"": ""10.1007/s10773-007-9450-y"",
+  ""report-no"": null,
+  ""categories"": ""gr-qc"",
+  ""license"": null,
+  ""abstract"": ""  The physical consistency of the match of piecewise-$C^0$ metrics is\ndiscussed. The mathematical theory of gravitational discontinuity hypersurfaces\nis generalized to cover the match of regularly discontinuous metrics. The\nmean-value differential geometry framework on a hypersurface is introduced, and\ncorresponding compatibility conditions are deduced. Examples of generalized\nboundary layers, gravitational shock waves and thin shells are studied.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 19:43:30 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Gemelli"",
+      ""Gianluca"",
+      """"
+    ]
+  ]
+}"

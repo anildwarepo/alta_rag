@@ -1,0 +1,38 @@
+title,text
+noise 35,"{
+  ""id"": 704.0035,
+  ""submitter"": ""Maxim A. Yurkin"",
+  ""authors"": ""Maxim A. Yurkin, Valeri P. Maltsev, Alfons G. Hoekstra"",
+  ""title"": ""Convergence of the discrete dipole approximation. II. An extrapolation\n  technique to increase the accuracy"",
+  ""comments"": ""17 pages, 8 figures"",
+  ""journal-ref"": ""J.Opt.Soc.Am.A 23(10): 2592-2601 (2006)"",
+  ""doi"": ""10.1364/JOSAA.23.002592"",
+  ""report-no"": null,
+  ""categories"": ""physics.optics physics.comp-ph"",
+  ""license"": null,
+  ""abstract"": ""  We propose an extrapolation technique that allows accuracy improvement of the\ndiscrete dipole approximation computations. The performance of this technique\nwas studied empirically based on extensive simulations for 5 test cases using\nmany different discretizations. The quality of the extrapolation improves with\nrefining discretization reaching extraordinary performance especially for\ncubically shaped particles. A two order of magnitude decrease of error was\ndemonstrated. We also propose estimates of the extrapolation error, which were\nproven to be reliable. Finally we propose a simple method to directly separate\nshape and discretization errors and illustrated this for one test case.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 15:52:56 GMT""
+    }
+  ],
+  ""update_date"": ""2008-07-29"",
+  ""authors_parsed"": [
+    [
+      ""Yurkin"",
+      ""Maxim A."",
+      """"
+    ],
+    [
+      ""Maltsev"",
+      ""Valeri P."",
+      """"
+    ],
+    [
+      ""Hoekstra"",
+      ""Alfons G."",
+      """"
+    ]
+  ]
+}"

@@ -1,0 +1,28 @@
+title,text
+noise 67,"{
+  ""id"": 704.0067,
+  ""submitter"": ""Lawrence Friedman"",
+  ""authors"": ""Lawrence H. Friedman"",
+  ""title"": ""Order of Epitaxial Self-Assembled Quantum Dots: Linear Analysis"",
+  ""comments"": null,
+  ""journal-ref"": ""L. H. Friedman. Order of epitaxial self-assembled quantum dots:\n  Linear analysis. Journal of Nanophotonics, 1(1):013513, 2007."",
+  ""doi"": ""10.1117/1.2753144"",
+  ""report-no"": null,
+  ""categories"": ""cond-mat.mtrl-sci"",
+  ""license"": null,
+  ""abstract"": ""  Epitaxial self-assembled quantum dots (SAQDs) are of interest for\nnanostructured optoelectronic and electronic devices such as lasers,\nphotodetectors and nanoscale logic. Spatial order and size order of SAQDs are\nimportant to the development of usable devices. It is likely that these two\ntypes of order are strongly linked; thus, a study of spatial order will also\nhave strong implications for size order. Here a study of spatial order is\nundertaken using a linear analysis of a commonly used model of SAQD formation\nbased on surface diffusion. Analytic formulas for film-height correlation\nfunctions are found that characterize quantum dot spatial order and\ncorresponding correlation lengths that quantify order. Initial atomic-scale\nrandom fluctuations result in relatively small correlation lengths (about two\ndots) when the effect of a wetting potential is negligible; however, the\ncorrelation lengths diverge when SAQDs are allowed to form at a near-critical\nfilm height. The present work reinforces previous findings about anisotropy and\nSAQD order and presents as explicit and transparent mechanism for ordering with\ncorresponding analytic equations. In addition, SAQD formation is by its nature\na stochastic process, and various mathematical aspects regarding statistical\nanalysis of SAQD formation and order are presented.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 05:30:59 GMT""
+    }
+  ],
+  ""update_date"": ""2007-06-09"",
+  ""authors_parsed"": [
+    [
+      ""Friedman"",
+      ""Lawrence H."",
+      """"
+    ]
+  ]
+}"

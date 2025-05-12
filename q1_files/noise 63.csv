@@ -1,0 +1,40 @@
+title,text
+noise 63,"{
+  ""id"": 704.0063,
+  ""submitter"": ""Somnath Choudhury"",
+  ""authors"": ""Somnath Choudhury"",
+  ""title"": ""Experimental efforts in search of 76Ge Neutrinoless Double Beta Decay"",
+  ""comments"": null,
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""hep-ph"",
+  ""license"": null,
+  ""abstract"": ""  Neutrinoless double beta decay is one of the most sensitive approaches in\nnon-accelerator particle physics to take us into a regime of physics beyond the\nstandard model. This article is a brief review of the experiments in search of\nneutrinoless double beta decay from 76Ge. Following a brief introduction of the\nprocess of double beta decay from 76Ge, the results of the very first\nexperiments IGEX and Heidelberg-Moscow which give indications of the existence\nof possible neutrinoless double beta decay mode has been reviewed. Then ongoing\nefforts to substantiate the early findings are presented and the Majorana\nexperiment as a future experimental approach which will allow a very detailed\nstudy of the neutrinoless decay mode is discussed.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 00:15:54 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Tue, 3 Apr 2007 23:51:30 GMT""
+    },
+    {
+      ""version"": ""v3"",
+      ""created"": ""Fri, 27 Apr 2007 17:42:41 GMT""
+    },
+    {
+      ""version"": ""v4"",
+      ""created"": ""Wed, 12 Mar 2008 16:14:26 GMT""
+    }
+  ],
+  ""update_date"": ""2008-03-12"",
+  ""authors_parsed"": [
+    [
+      ""Choudhury"",
+      ""Somnath"",
+      """"
+    ]
+  ]
+}"

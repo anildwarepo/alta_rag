@@ -1,0 +1,37 @@
+title,text
+noise 92,"{
+  ""id"": 704.0092,
+  ""submitter"": ""Christof Gattringer"",
+  ""authors"": ""Christof Gattringer and Ludovit Liptak"",
+  ""title"": ""Energy density for chiral lattice fermions with chemical potential"",
+  ""comments"": ""Minor changes in the text. Version to appear in Phys. Rev. D"",
+  ""journal-ref"": ""Phys.Rev.D76:054502,2007"",
+  ""doi"": ""10.1103/PhysRevD.76.054502"",
+  ""report-no"": null,
+  ""categories"": ""hep-lat hep-ph"",
+  ""license"": null,
+  ""abstract"": ""  We study a recently proposed formulation of overlap fermions at finite\ndensity. In particular we compute the energy density as a function of the\nchemical potential and the temperature. It is shown that overlap fermions with\nchemical potential reproduce the correct continuum behavior.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 16:20:10 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Thu, 26 Jul 2007 10:50:05 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Gattringer"",
+      ""Christof"",
+      """"
+    ],
+    [
+      ""Liptak"",
+      ""Ludovit"",
+      """"
+    ]
+  ]
+}"

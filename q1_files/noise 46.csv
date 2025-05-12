@@ -1,0 +1,38 @@
+title,text
+noise 46,"{
+  ""id"": 704.0046,
+  ""submitter"": ""Denes Petz"",
+  ""authors"": ""I. Csiszar, F. Hiai and D. Petz"",
+  ""title"": ""A limit relation for entropy and channel capacity per unit cost"",
+  ""comments"": ""LATEX file, 11 pages"",
+  ""journal-ref"": ""J. Math. Phys. 48(2007), 092102."",
+  ""doi"": ""10.1063/1.2779138"",
+  ""report-no"": null,
+  ""categories"": ""quant-ph cs.IT math.IT"",
+  ""license"": null,
+  ""abstract"": ""  In a quantum mechanical model, Diosi, Feldmann and Kosloff arrived at a\nconjecture stating that the limit of the entropy of certain mixtures is the\nrelative entropy as system size goes to infinity. The conjecture is proven in\nthis paper for density matrices. The first proof is analytic and uses the\nquantum law of large numbers. The second one clarifies the relation to channel\ncapacity per unit cost for classical-quantum channels. Both proofs lead to\ngeneralization of the conjecture.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 16:37:36 GMT""
+    }
+  ],
+  ""update_date"": ""2009-11-13"",
+  ""authors_parsed"": [
+    [
+      ""Csiszar"",
+      ""I."",
+      """"
+    ],
+    [
+      ""Hiai"",
+      ""F."",
+      """"
+    ],
+    [
+      ""Petz"",
+      ""D."",
+      """"
+    ]
+  ]
+}"

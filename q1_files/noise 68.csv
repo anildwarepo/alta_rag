@@ -1,0 +1,32 @@
+title,text
+noise 68,"{
+  ""id"": 704.0068,
+  ""submitter"": ""Branko Malesevic"",
+  ""authors"": ""Branko J. Malesevic"",
+  ""title"": ""A Note About the {Ki(z)} Functions"",
+  ""comments"": ""Accepted in Rocky Mountain Journal of mathematics"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.NT math.CV"",
+  ""license"": null,
+  ""abstract"": ""  In the article [Petojevic 2006], A. Petojevi\\' c verified useful properties\nof the $K_{i}(z)$ functions which generalize Kurepa's [Kurepa 1971] left\nfactorial function. In this note, we present simplified proofs of two of these\nresults and we answer the open question stated in [Petojevic 2006]. Finally, we\ndiscuss the differential transcendency of the $K_{i}(z)$ functions.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 05:42:28 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Fri, 25 May 2007 17:07:20 GMT""
+    }
+  ],
+  ""update_date"": ""2007-06-13"",
+  ""authors_parsed"": [
+    [
+      ""Malesevic"",
+      ""Branko J."",
+      """"
+    ]
+  ]
+}"

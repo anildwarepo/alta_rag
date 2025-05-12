@@ -1,0 +1,38 @@
+title,text
+noise 37,"{
+  ""id"": 704.0037,
+  ""submitter"": ""Maxim A. Yurkin"",
+  ""authors"": ""Maxim A. Yurkin, Valeri P. Maltsev, Alfons G. Hoekstra"",
+  ""title"": ""The discrete dipole approximation for simulation of light scattering by\n  particles much larger than the wavelength"",
+  ""comments"": ""13 pages, 10 figures"",
+  ""journal-ref"": ""J.Quant.Spectrosc.Radiat.Transf. 106, 546-557 (2007)"",
+  ""doi"": ""10.1016/j.jqsrt.2007.01.033"",
+  ""report-no"": null,
+  ""categories"": ""physics.optics physics.comp-ph"",
+  ""license"": null,
+  ""abstract"": ""  In this manuscript we investigate the capabilities of the Discrete Dipole\nApproximation (DDA) to simulate scattering from particles that are much larger\nthan the wavelength of the incident light, and describe an optimized publicly\navailable DDA computer program that processes the large number of dipoles\nrequired for such simulations. Numerical simulations of light scattering by\nspheres with size parameters x up to 160 and 40 for refractive index m=1.05 and\n2 respectively are presented and compared with exact results of the Mie theory.\nErrors of both integral and angle-resolved scattering quantities generally\nincrease with m and show no systematic dependence on x. Computational times\nincrease steeply with both x and m, reaching values of more than 2 weeks on a\ncluster of 64 processors. The main distinctive feature of the computer program\nis the ability to parallelize a single DDA simulation over a cluster of\ncomputers, which allows it to simulate light scattering by very large\nparticles, like the ones that are considered in this manuscript. Current\nlimitations and possible ways for improvement are discussed.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 16:06:05 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Yurkin"",
+      ""Maxim A."",
+      """"
+    ],
+    [
+      ""Maltsev"",
+      ""Valeri P."",
+      """"
+    ],
+    [
+      ""Hoekstra"",
+      ""Alfons G."",
+      """"
+    ]
+  ]
+}"

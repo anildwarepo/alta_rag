@@ -1,0 +1,29 @@
+title,text
+noise 66,"{
+  ""id"": 704.0066,
+  ""submitter"": ""Bozhidar Zakhariev Iliev"",
+  ""authors"": ""Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,\n  Bulgarian Academy of Sciences, Sofia, Bulgaria)"",
+  ""title"": ""Lagrangian quantum field theory in momentum picture. IV. Commutation\n  relations for free fields"",
+  ""comments"": ""60 LaTeX pages. The packages AMS-LaTeX and amsfonts are required.\n  This paper is a continuation of the e-print E-prints No. hep-th/0402006, No.\n  hep-th/0405008 and No. hep-th/0505007. For related papers, visit the\n  \""publication\"" pages at http://theo.inrne.bas.bg/~bozho/"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""hep-th"",
+  ""license"": null,
+  ""abstract"": ""  Possible (algebraic) commutation relations in the Lagrangian quantum theory\nof free (scalar, spinor and vector) fields are considered from mathematical\nview-point. As sources of these relations are employed the Heisenberg\nequations/relations for the dynamical variables and a specific condition for\nuniqueness of the operators of the dynamical variables (with respect to some\nclass of Lagrangians). The paracommutation relations or some their\ngeneralizations are pointed as the most general ones that entail the validity\nof all Heisenberg equations. The simultaneous fulfillment of the Heisenberg\nequations and the uniqueness requirement turn to be impossible. This problem is\nsolved via a redefinition of the dynamical variables, similar to the normal\nordering procedure and containing it as a special case. That implies\ncorresponding changes in the admissible commutation relations. The introduction\nof the concept of the vacuum makes narrow the class of the possible commutation\nrelations; in particular, the mentioned redefinition of the dynamical variables\nis reduced to normal ordering. As a last restriction on that class is imposed\nthe requirement for existing of an effective procedure for calculating vacuum\nmean values. The standard bilinear commutation relations are pointed as the\nonly known ones that satisfy all of the mentioned conditions and do not\ncontradict to the existing data.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 06:22:38 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Iliev"",
+      ""Bozhidar Z."",
+      """",
+      ""Institute for Nuclear Research and Nuclear Energy,\n  Bulgarian Academy of Sciences, Sofia, Bulgaria""
+    ]
+  ]
+}"

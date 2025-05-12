@@ -1,0 +1,38 @@
+title,text
+noise 45,"{
+  ""id"": 704.0045,
+  ""submitter"": ""A. M. Kamchatnov"",
+  ""authors"": ""G.A. El, R.H.J. Grimshaw, A.M. Kamchatnov"",
+  ""title"": ""Evolution of solitary waves and undular bores in shallow-water flows\n  over a gradual slope with bottom friction"",
+  ""comments"": ""accepted for publication in J. Fluid Mech."",
+  ""journal-ref"": ""J. Fluid Mech. 585, 213-244 (2007)"",
+  ""doi"": ""10.1017/S0022112007006817"",
+  ""report-no"": null,
+  ""categories"": ""nlin.PS nlin.SI"",
+  ""license"": null,
+  ""abstract"": ""  This paper considers the propagation of shallow-water solitary and nonlinear\nperiodic waves over a gradual slope with bottom friction in the framework of a\nvariable-coefficient Korteweg-de Vries equation. We use the Whitham averaging\nmethod, using a recent development of this theory for perturbed integrable\nequations. This general approach enables us not only to improve known results\non the adiabatic evolution of isolated solitary waves and periodic wave trains\nin the presence of variable topography and bottom friction, modeled by the\nChezy law, but also importantly, to study the effects of these factors on the\npropagation of undular bores, which are essentially unsteady in the system\nunder consideration. In particular, it is shown that the combined action of\nvariable topography and bottom friction generally imposes certain global\nrestrictions on the undular bore propagation so that the evolution of the\nleading solitary wave can be substantially different from that of an isolated\nsolitary wave with the same initial amplitude. This non-local effect is due to\nnonlinear wave interactions within the undular bore and can lead to an\nadditional solitary wave amplitude growth, which cannot be predicted in the\nframework of the traditional adiabatic approach to the propagation of solitary\nwaves in slowly varying media.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 18:09:02 GMT""
+    }
+  ],
+  ""update_date"": ""2007-09-23"",
+  ""authors_parsed"": [
+    [
+      ""El"",
+      ""G. A."",
+      """"
+    ],
+    [
+      ""Grimshaw"",
+      ""R. H. J."",
+      """"
+    ],
+    [
+      ""Kamchatnov"",
+      ""A. M."",
+      """"
+    ]
+  ]
+}"

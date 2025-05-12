@@ -1,0 +1,29 @@
+title,text
+noise 94,"{
+  ""id"": 704.0094,
+  ""submitter"": ""HongSheng Zhao"",
+  ""authors"": ""HongSheng Zhao (SUPA, St Andrews)"",
+  ""title"": ""Timing and Lensing of the Colliding Bullet Clusters: barely enough time\n  and gravity to accelerate the bullet"",
+  ""comments"": ""5-pages, Physical Review D, rapid publication submitted"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""astro-ph"",
+  ""license"": null,
+  ""abstract"": ""  We present semi-analytical constraint on the amount of dark matter in the\nmerging bullet galaxy cluster using the classical Local Group timing arguments.\nWe consider particle orbits in potential models which fit the lensing data.\n{\\it Marginally consistent} CDM models in Newtonian gravity are found with a\ntotal mass M_{CDM} = 1 x 10^{15}Msun of Cold DM: the bullet subhalo can move\nwith V_{DM}=3000km/s, and the \""bullet\"" X-ray gas can move with\nV_{gas}=4200km/s. These are nearly the {\\it maximum speeds} that are\naccelerable by the gravity of two truncated CDM halos in a Hubble time even\nwithout the ram pressure. Consistency breaks down if one adopts higher end of\nthe error bars for the bullet gas speed (5000-5400km/s), and the bullet gas\nwould not be bound by the sub-cluster halo for the Hubble time. Models with\nV_{DM}~ 4500km/s ~ V_{gas} would invoke unrealistic large amount M_{CDM}=7x\n10^{15}Msun of CDM for a cluster containing only ~ 10^{14}Msun of gas. Our\nresults are generalisable beyond General Relativity, e.g., a speed of\n$4500\\kms$ is easily obtained in the relativistic MONDian lensing model of\nAngus et al. (2007). However, MONDian model with little hot dark matter\n$M_{HDM} \\le 0.6\\times 10^{15}\\msun$ and CDM model with a small halo mass $\\le\n1\\times 10^{15}\\msun$ are barely consistent with lensing and velocity data.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Mon, 2 Apr 2007 18:30:16 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Zhao"",
+      ""HongSheng"",
+      """",
+      ""SUPA, St Andrews""
+    ]
+  ]
+}"

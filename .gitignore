@@ -1,4 +1,7 @@
 secrets.env
+.env
 alta_enriched_data.json_with_vectors.json
-RAG_Optimization.docx
+__pycache__
 alta_enriched_with_vectors_v2.json
+autodesk_index_data_with_vectors1.json
+input-100k.tar.gz

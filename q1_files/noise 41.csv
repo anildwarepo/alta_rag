@@ -1,0 +1,40 @@
+title,text
+noise 41,"{
+  ""id"": 704.0041,
+  ""submitter"": ""Debashish Goswami"",
+  ""authors"": ""Debashish Goswami"",
+  ""title"": ""Quantum Group of Isometries in Classical and Noncommutative Geometry"",
+  ""comments"": ""improvements: (i) more general approach through quantum families of\n  isometries, following Woronowicz and Soltan's ideas; (ii) construction of\n  equivaraint spectral triples. also some minor changes. Improved and enlarged\n  version of ICTP preprint IC/2007/017"",
+  ""journal-ref"": null,
+  ""doi"": ""10.1007/s00220-008-0461-1"",
+  ""report-no"": null,
+  ""categories"": ""math.QA math-ph math.MP"",
+  ""license"": null,
+  ""abstract"": ""  We formulate a quantum generalization of the notion of the group of\nRiemannian isometries for a compact Riemannian manifold, by introducing a\nnatural notion of smooth and isometric action by a compact quantum group on a\nclassical or noncommutative manifold described by spectral triples, and then\nproving the existence of a universal object (called the quantum isometry group)\nin the category of compact quantum groups acting smoothly and isometrically on\na given (possibly noncommutative) manifold satisfying certain regularity\nassumptions. In fact, we identify the quantum isometry group with the universal\nobject in a bigger category, namely the category of `quantum families of smooth\nisometries', defined along the line of Woronowicz and Soltan. We also construct\na spectral triple on the Hilbert space of forms on a noncommutative manifold\nwhich is equivariant with respect to a natural unitary representation of the\nquantum isometry group. We give explicit description of quantum isometry groups\nof commutative and noncommutative tori, and in this context, obtain the quantum\ndouble torus defined in \\cite{hajac} as the universal quantum group of\nholomorphic isometries of the noncommutative torus.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 21:04:54 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Tue, 10 Apr 2007 00:09:57 GMT""
+    },
+    {
+      ""version"": ""v3"",
+      ""created"": ""Mon, 23 Jul 2007 19:24:43 GMT""
+    },
+    {
+      ""version"": ""v4"",
+      ""created"": ""Fri, 26 Oct 2007 06:15:33 GMT""
+    }
+  ],
+  ""update_date"": ""2009-11-13"",
+  ""authors_parsed"": [
+    [
+      ""Goswami"",
+      ""Debashish"",
+      """"
+    ]
+  ]
+}"

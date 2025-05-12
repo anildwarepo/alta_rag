@@ -1,0 +1,37 @@
+title,text
+noise 39,"{
+  ""id"": 704.0039,
+  ""submitter"": ""Jose Antonio Oller"",
+  ""authors"": ""Jose A. Oller and Luis Roca"",
+  ""title"": ""Scalar radius of the pion and zeros in the form factor"",
+  ""comments"": ""18 pages, 3 figures. Some rewriting in the presentation of the\n  results and comments to previous works"",
+  ""journal-ref"": ""Phys.Lett.B651:139-146,2007"",
+  ""doi"": ""10.1016/j.physletb.2007.06.023"",
+  ""report-no"": null,
+  ""categories"": ""hep-ph hep-lat nucl-th"",
+  ""license"": null,
+  ""abstract"": ""  The quadratic pion scalar radius, \\la r^2\\ra^\\pi_s, plays an important role\nfor present precise determinations of \\pi\\pi scattering. Recently, Yndur\\'ain,\nusing an Omn\\`es representation of the null isospin(I) non-strange pion scalar\nform factor, obtains \\la r^2\\ra^\\pi_s=0.75\\pm 0.07 fm^2. This value is larger\nthan the one calculated by solving the corresponding Muskhelishvili-Omn\\`es\nequations, \\la r^2\\ra^\\pi_s=0.61\\pm 0.04 fm^2. A large discrepancy between both\nvalues, given the precision, then results. We reanalyze Yndur\\'ain's method and\nshow that by imposing continuity of the resulting pion scalar form factor under\ntiny changes in the input \\pi\\pi phase shifts, a zero in the form factor for\nsome S-wave I=0 T-matrices is then required. Once this is accounted for, the\nresulting value is \\la r^2\\ra_s^\\pi=0.65\\pm 0.05 fm^2. The main source of error\nin our determination is present experimental uncertainties in low energy S-wave\nI=0 \\pi\\pi phase shifts. Another important contribution to our error is the not\nyet settled asymptotic behaviour of the phase of the scalar form factor from\nQCD.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 17:06:06 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Wed, 25 Apr 2007 11:14:41 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Oller"",
+      ""Jose A."",
+      """"
+    ],
+    [
+      ""Roca"",
+      ""Luis"",
+      """"
+    ]
+  ]
+}"

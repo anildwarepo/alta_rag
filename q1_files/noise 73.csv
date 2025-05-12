@@ -1,0 +1,36 @@
+title,text
+noise 73,"{
+  ""id"": 704.0073,
+  ""submitter"": ""Osamu Fujino"",
+  ""authors"": ""Osamu Fujino"",
+  ""title"": ""A transcendental approach to Koll\\'ar's injectivity theorem"",
+  ""comments"": ""22 pages; a minor revision of the preprint circulated in January\n  2006, v2: minor modifications, v3: final version, to appear in Osaka J. Math"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.AG"",
+  ""license"": ""http://arxiv.org/licenses/nonexclusive-distrib/1.0/"",
+  ""abstract"": ""  We treat Koll\\'ar's injectivity theorem from the analytic (or differential\ngeometric) viewpoint. More precisely, we give a curvature condition which\nimplies Koll\\'ar type cohomology injectivity theorems. Our main theorem is\nformulated for a compact K\\\""ahler manifold, but the proof uses the space of\nharmonic forms on a Zariski open set with a suitable complete K\\\""ahler metric.\nWe need neither covering tricks, desingularizations, nor Leray's spectral\nsequence.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 08:40:19 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Tue, 4 Jan 2011 00:41:06 GMT""
+    },
+    {
+      ""version"": ""v3"",
+      ""created"": ""Mon, 5 Mar 2012 01:44:29 GMT""
+    }
+  ],
+  ""update_date"": ""2012-03-06"",
+  ""authors_parsed"": [
+    [
+      ""Fujino"",
+      ""Osamu"",
+      """"
+    ]
+  ]
+}"

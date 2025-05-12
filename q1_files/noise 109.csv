@@ -1,0 +1,43 @@
+title,text
+noise 109,"{
+  ""id"": 704.0109,
+  ""submitter"": ""Engin Durgun"",
+  ""authors"": ""Engin Durgun, Deniz Cakir, Nurten Akman, and Salim Ciraci"",
+  ""title"": ""Half-metallic silicon nanowires"",
+  ""comments"": ""5 pagesm 4 figures"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""cond-mat.mtrl-sci cond-mat.other"",
+  ""license"": null,
+  ""abstract"": ""  From first-principles calculations, we predict that transition metal (TM)\natom doped silicon nanowires have a half-metallic ground state. They are\ninsulators for one spin-direction, but show metallic properties for the\nopposite spin direction. At high coverage of TM atoms, ferromagnetic silicon\nnanowires become metallic for both spin-directions with high magnetic moment\nand may have also significant spin-polarization at the Fermi level. The\nspin-dependent electronic properties can be engineered by changing the type of\ndopant TM atoms, as well as the diameter of the nanowire. Present results are\nnot only of scientific interest, but can also initiate new research on\nspintronic applications of silicon nanowires.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 22:10:53 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Durgun"",
+      ""Engin"",
+      """"
+    ],
+    [
+      ""Cakir"",
+      ""Deniz"",
+      """"
+    ],
+    [
+      ""Akman"",
+      ""Nurten"",
+      """"
+    ],
+    [
+      ""Ciraci"",
+      ""Salim"",
+      """"
+    ]
+  ]
+}"

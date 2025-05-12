@@ -1,0 +1,28 @@
+title,text
+noise 58,"{
+  ""id"": 704.0058,
+  ""submitter"": ""Frank Tipler"",
+  ""authors"": ""Frank J. Tipler"",
+  ""title"": ""Intelligent Life in Cosmology"",
+  ""comments"": null,
+  ""journal-ref"": ""International Journal of Astrobiology 2 (2003) 141-148"",
+  ""doi"": ""10.1017/S1473550403001526"",
+  ""report-no"": null,
+  ""categories"": ""physics.pop-ph"",
+  ""license"": null,
+  ""abstract"": ""  I shall present three arguments for the proposition that intelligent life is\nvery rare in the universe. First, I shall summarize the consensus opinion of\nthe founders of the Modern Synthesis (Simpson, Dobzhanski, and Mayr) that the\nevolution of intelligent life is exceedingly improbable. Second, I shall\ndevelop the Fermi Paradox: if they existed they'd be here. Third, I shall show\nthat if intelligent life were too common, it would use up all available\nresources and die out. But I shall show that the quantum mechanical principle\nof unitarity (actually a form of teleology!) requires intelligent life to\nsurvive to the end of time. Finally, I shall argue that, if the universe is\nindeed accelerating, then survival to the end of time requires that intelligent\nlife, though rare, to have evolved several times in the visible universe. I\nshall argue that the acceleration is a consequence of the excess of matter over\nantimatter in the universe. I shall suggest experiments to test these claims.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 21:59:26 GMT""
+    }
+  ],
+  ""update_date"": ""2015-05-13"",
+  ""authors_parsed"": [
+    [
+      ""Tipler"",
+      ""Frank J."",
+      """"
+    ]
+  ]
+}"

@@ -1,0 +1,28 @@
+title,text
+noise 107,"{
+  ""id"": 704.0107,
+  ""submitter"": ""Igor Grabec"",
+  ""authors"": ""I. Grabec"",
+  ""title"": ""Experimental modeling of physical laws"",
+  ""comments"": ""12 pages, 5 eps figures, uses svjour.cls"",
+  ""journal-ref"": ""Eur. Phys. J. - B, 22, 129-135 (2001)"",
+  ""doi"": ""10.1007/PL00011130"",
+  ""report-no"": null,
+  ""categories"": ""physics.data-an"",
+  ""license"": null,
+  ""abstract"": ""  A physical law is represented by the probability distribution of a measured\nvariable. The probability density is described by measured data using an\nestimator whose kernel is the instrument scattering function. The experimental\ninformation and data redundancy are defined in terms of information entropy.\nThe model cost function, comprised of data redundancy and estimation error, is\nminimized by the creation-annihilation process.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 20:57:01 GMT""
+    }
+  ],
+  ""update_date"": ""2015-05-13"",
+  ""authors_parsed"": [
+    [
+      ""Grabec"",
+      ""I."",
+      """"
+    ]
+  ]
+}"

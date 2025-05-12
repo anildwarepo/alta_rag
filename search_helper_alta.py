@@ -73,6 +73,120 @@ index_client = SearchIndexClient(
     endpoint=azure_search_endpoint, credential=credential)
 
 
+def create_simple_index(index_name: str, analyzer_name: str = "en.microsoft", language_suffix: str = "en"):
+        index_schema = {
+        "name": index_name,
+        "fields": [
+            {
+                "name": "id",
+                "type": "Edm.String",
+                "key": True,
+                "sortable": True,
+                "filterable": True,
+                "facetable": True
+            },
+            # Existing fields
+            # Adding the new fields as searchable text fields
+            {
+                "name": "content",
+                "type": "Edm.String",
+                "searchable": True
+            },
+            
+            # Vector fields for embeddings
+            {
+                "name": "contentVector",
+                "type": "Collection(Edm.Single)",
+                "searchable": True,
+                "dimensions": 1536,
+                "vectorSearchProfile": "amlHnswProfile"
+                
+            }
+            # Existing fields such as lastUpdated, suggesters, scoringProfiles, etc.
+        ],
+        "scoringProfiles": [
+            
+        ],
+        "suggesters": [
+            
+        ],
+        "vectorSearch": {
+                "algorithms": [
+                    {
+                        "name": "amlHnsw",
+                        "kind": "hnsw",
+                        "hnswParameters": {
+                        "m": 4,
+                        "metric": "cosine"
+                        }
+                    }
+                
+                ],
+                "profiles": [
+                    {
+                        "name": "amlHnswProfile",
+                        "algorithm": "amlHnsw",
+                        "vectorizer": "amlVectorizer"
+                    }
+                
+                ], 
+                "vectorizers": [
+                    {
+                        "name":"amlVectorizer",
+                        "kind":"azureOpenAI",
+                        "azureOpenAIParameters": {
+                            "resourceUri": azure_openai_endpoint,
+                            "deploymentId": azure_openai_embedding__large_deployment,
+                            "modelName": embedding_model_name,
+                            "apiKey": azure_openai_key
+                        }
+                    }
+                ]
+                
+    },
+        "semantic": {
+            "configurations": [
+                {
+                    "name": "aml-semantic-config",
+                    "prioritizedFields": {
+                        "titleField": {
+                            "fieldName": "content"
+                        },
+                        "prioritizedKeywordsFields": [
+                            {
+                                "fieldName": "content"
+                            }
+                           
+                        ],
+                        "prioritizedContentFields": [
+                            {
+                                "fieldName": f"content"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+
+
+
+        headers = {'Content-Type': 'application/json',
+                'api-key': os.getenv("AZURE_SEARCH_ADMIN_KEY", "") }
+        # Create Index
+        url = azure_search_endpoint + "/indexes/" + index_name + "?api-version=2024-07-01"
+
+
+        response = requests.get(url, headers=headers)
+        if response.status_code == 404:
+            response  = requests.put(url, headers=headers, json=index_schema)
+            index = response.json()
+            print(index)
+        else:
+            print("Index already exists")
+
+
+
 def create_index(index_name: str, analyzer_name: str = "en.microsoft", language_suffix: str = "en"):
         index_schema = {
         "name": index_name,
@@ -569,6 +683,49 @@ def generate_embeddings_for_doc1(doc):
 import time
 import json
 
+
+
+def generate_embeddings_for_doc_simple(doc, max_retries=5, base_delay=15):
+    # Extract fields
+    try:
+        global processed_docs_count
+        content = doc.get("content", "")
+        
+
+        # Function to attempt embedding generation with retry logic
+        def generate_with_retries(data, dimensions, model):
+            retries = 0
+            while retries < max_retries:
+                try:
+                    if type(data) == list:
+                        cleaned_data = [item for item in data if item is not None]
+                        cleaned_data_string = ", ".join(cleaned_data)
+                        return openai_helper.generate_embeddings(cleaned_data_string, dimensions=dimensions, model=model)
+                    else:
+                        return openai_helper.generate_embeddings(data, dimensions=dimensions, model=model)
+
+                except Exception as e:
+                    retries += 1
+                    delay = base_delay * (2 ** (retries - 1))  # Exponential backoff
+                    print(f"Retry {retries} for {data}. Waiting {delay} seconds before retrying...")
+                    time.sleep(delay)
+            print(f"Failed to generate embeddings after {max_retries} attempts.")
+            return None
+
+        # Generate embeddings for each part, chapter, section, keywords, para, topics, summary, category
+        content_embeddings = generate_with_retries(content, azure_openai_embedding_small_dimensions, azure_openai_embedding__small_deployment)
+        
+        # Update document with embeddings
+        doc["contentVector"] = content_embeddings[0].embedding if content_embeddings else None
+        processed_docs_count += 1
+        print(f"Processed document: {doc.get('id', 'unknown')} - {processed_docs_count}")
+        return doc
+    except Exception as e:
+        with open("embedding_error.log", "a") as f:
+            f.write(str(doc) + "\n")
+        print(f"generate_embeddings_for_doc Error processing document: {e}")
+        return None
+
 def generate_embeddings_for_doc(doc, max_retries=5, base_delay=15):
     # Extract fields
     try:
@@ -632,6 +789,31 @@ def generate_embeddings_for_doc(doc, max_retries=5, base_delay=15):
         return None
 
 
+def enrich_with_embeddings_parallel_simple(output_file_name):
+    # Load data from the JSON file
+    with open(output_file_name, "r") as f:
+        search_index_data = json.loads(f.read())
+
+    # Parallel processing with ProcessPoolExecutor
+    with ProcessPoolExecutor(max_workers=4) as executor:
+        futures = [executor.submit(generate_embeddings_for_doc_simple, doc) for doc in search_index_data]
+        results = []
+        
+        # As each future completes, add the result to `results`
+        for future in as_completed(futures):
+            try:
+                fresult = future.result()
+                if fresult is not None:
+                    results.append(fresult)
+            except Exception as e:
+                with open("fresult_error.log", "a") as f:
+                    f.write(str(fresult))
+                print(f"Error processing document: {e}")
+    
+    # Save the enriched data with embeddings
+    with open(f"{output_file_name}_with_vectors.json", "w") as f:
+        f.write(json.dumps(results))
+
 def enrich_with_embeddings_parallel(output_file_name):
     # Load data from the JSON file
     with open(output_file_name, "r") as f:
@@ -659,8 +841,26 @@ def enrich_with_embeddings_parallel(output_file_name):
 
 
 
-        
+def upload_to_search_simple(index_name, data_file, language_suffix: str = "en"):
+    
+    vector_file_name = f"{data_file}_with_vectors.json"
 
+    with open(vector_file_name, "r") as f:
+        aml_index_data_with_vectors = json.loads(f.read())
+
+    search_client = SearchClient(endpoint=azure_search_endpoint, index_name=index_name, credential=credential)
+
+    for idx, doc in enumerate(aml_index_data_with_vectors):
+        search_doc = {
+            "id": doc["id"],
+            "content": doc.get("content", ""),
+            "contentVector": doc.get("contentVector") or [],
+        }
+
+        result = search_client.upload_documents(documents=[search_doc])
+        print(f"Uploaded document: {doc['id']} - {idx + 1}")
+
+    print(f"{len(aml_index_data_with_vectors)} Documents uploaded to Azure Search")
 
 
     

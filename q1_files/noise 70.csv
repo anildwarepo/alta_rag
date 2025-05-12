@@ -1,0 +1,33 @@
+title,text
+noise 70,"{
+  ""id"": 704.007,
+  ""submitter"": ""Yanzhang He"",
+  ""authors"": ""He Yanzhang and Bao Chengguang"",
+  ""title"": ""Coincidence of the oscillations in the dipole transition and in the\n  persistent current of narrow quantum rings with two electrons"",
+  ""comments"": ""5 pages, 4 figures, submitted"",
+  ""journal-ref"": ""J. Phys.: Condens. Matter 20 (2008) 055214"",
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""cond-mat.mes-hall"",
+  ""license"": null,
+  ""abstract"": ""  The fractional Aharonov-Bohm oscillation (FABO) of narrow quantum rings with\ntwo electrons has been studied and has been explained in an analytical way, the\nevolution of the period and amplitudes against the magnetic field can be\nexactly described. Furthermore, the dipole transition of the ground state was\nfound to have essentially two frequencies, their difference appears as an\noscillation matching the oscillation of the persistent current exactly. A\nnumber of equalities relating the observables and dynamical parameters have\nbeen found.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 06:49:32 GMT""
+    }
+  ],
+  ""update_date"": ""2008-01-19"",
+  ""authors_parsed"": [
+    [
+      ""Yanzhang"",
+      ""He"",
+      """"
+    ],
+    [
+      ""Chengguang"",
+      ""Bao"",
+      """"
+    ]
+  ]
+}"

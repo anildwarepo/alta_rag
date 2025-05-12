@@ -1,0 +1,52 @@
+title,text
+noise 60,"{
+  ""id"": 704.006,
+  ""submitter"": ""Carlos Bertulani"",
+  ""authors"": ""C.A. Bertulani, G. Cardella, M. De Napoli, G. Raciti, and E. Rapisarda"",
+  ""title"": ""Coulomb excitation of unstable nuclei at intermediate energies"",
+  ""comments"": ""12 pages, 2 figures, accepted for publication in Phys. Lett. B"",
+  ""journal-ref"": ""Phys.Lett.B650:233-238,2007"",
+  ""doi"": ""10.1016/j.physletb.2007.05.029"",
+  ""report-no"": null,
+  ""categories"": ""nucl-th"",
+  ""license"": null,
+  ""abstract"": ""  We investigate the Coulomb excitation of low-lying states of unstable nuclei\nin intermediate energy collisions ($E_{lab}\\sim10-500$ MeV/nucleon). It is\nshown that the cross sections for the $E1$ and $E2$ transitions are larger at\nlower energies, much less than 10 MeV/nucleon. Retardation effects and Coulomb\ndistortion are found to be both relevant for energies as low as 10 MeV/nucleon\nand as high as 500 MeV/nucleon. Implications for studies at radioactive beam\nfacilities are discussed.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 22:24:53 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Mon, 21 May 2007 16:23:27 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Bertulani"",
+      ""C. A."",
+      """"
+    ],
+    [
+      ""Cardella"",
+      ""G."",
+      """"
+    ],
+    [
+      ""De Napoli"",
+      ""M."",
+      """"
+    ],
+    [
+      ""Raciti"",
+      ""G."",
+      """"
+    ],
+    [
+      ""Rapisarda"",
+      ""E."",
+      """"
+    ]
+  ]
+}"

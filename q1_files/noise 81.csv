@@ -1,0 +1,29 @@
+title,text
+noise 81,"{
+  ""id"": 704.0081,
+  ""submitter"": ""Valeriy Tolstoy"",
+  ""authors"": ""V.N. Tolstoy (INP, Moscow State University)"",
+  ""title"": ""Quantum Deformations of Relativistic Symmetries"",
+  ""comments"": ""10 pages. Invited talk at the XXII Max Born Symposium \""Quantum, Super\n  and Twistors\"", September 27-29, 2006, Wroclaw (Poland), in honour of Jerzy\n  Lukierski."",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.QA hep-th math-ph math.MP math.RT"",
+  ""license"": null,
+  ""abstract"": ""  We discussed quantum deformations of D=4 Lorentz and Poincare algebras. In\nthe case of Poincare algebra it is shown that almost all classical r-matrices\nof S. Zakrzewski classification correspond to twisted deformations of Abelian\nand Jordanian types. A part of twists corresponding to the r-matrices of\nZakrzewski classification are given in explicit form.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Mon, 2 Apr 2007 13:06:59 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Tolstoy"",
+      ""V. N."",
+      """",
+      ""INP, Moscow State University""
+    ]
+  ]
+}"

@@ -1,0 +1,28 @@
+title,text
+noise 77,"{
+  ""id"": 704.0077,
+  ""submitter"": ""Afsar Abbas"",
+  ""authors"": ""Afsar Abbas"",
+  ""title"": ""Universal Forces and the Dark Energy Problem"",
+  ""comments"": ""9 pages. no figures"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""physics.gen-ph"",
+  ""license"": null,
+  ""abstract"": ""  The Dark Energy problem is forcing us to re-examine our models and our\nunderstanding of relativity and space-time. Here a novel idea of Fundamental\nForces is introduced. This allows us to perceive the General Theory of\nRelativity and Einstein's Equation from a new pesrpective. In addition to\nproviding us with an improved understanding of space and time, it will be shown\nhow it leads to a resolution of the Dark Energy problem.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 09:49:01 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Abbas"",
+      ""Afsar"",
+      """"
+    ]
+  ]
+}"

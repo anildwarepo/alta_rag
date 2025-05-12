@@ -1,0 +1,33 @@
+title,text
+noise 96,"{
+  ""id"": 704.0096,
+  ""submitter"": ""M. C. Nucci"",
+  ""authors"": ""M.C. Nucci and P.G.L. Leach"",
+  ""title"": ""Much ado about 248"",
+  ""comments"": ""5 pages"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""nlin.SI"",
+  ""license"": null,
+  ""abstract"": ""  In this note we present three representations of a 248-dimensional Lie\nalgebra, namely the algebra of Lie point symmetries admitted by a system of\nfive trivial ordinary differential equations each of order forty-four, that\nadmitted by a system of seven trivial ordinary differential equations each of\norder twenty-eight and that admitted by one trivial ordinary differential\nequation of order two hundred and forty-four.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 17:28:15 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Nucci"",
+      ""M. C."",
+      """"
+    ],
+    [
+      ""Leach"",
+      ""P. G. L."",
+      """"
+    ]
+  ]
+}"

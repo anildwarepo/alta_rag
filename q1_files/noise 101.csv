@@ -1,0 +1,28 @@
+title,text
+noise 101,"{
+  ""id"": 704.0101,
+  ""submitter"": ""Paolo Di Vecchia pdv"",
+  ""authors"": ""Paolo Di Vecchia"",
+  ""title"": ""The birth of string theory"",
+  ""comments"": ""Latex 60 pages, 2 figures, uses svmult.cls. Contribution to the\n  volume \""String theory and fundamental interactions\"", dedicated to Gabriele\n  Veneziano on his 65th birthday."",
+  ""journal-ref"": ""Lect.NotesPhys.737:59-118,2008"",
+  ""doi"": null,
+  ""report-no"": ""NORDITA-2007-13"",
+  ""categories"": ""hep-th"",
+  ""license"": null,
+  ""abstract"": ""  In this contribution we go through the developments that in the years 1968 to\n1974 led from the Veneziano model to the bosonic string.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 19:30:02 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Di Vecchia"",
+      ""Paolo"",
+      """"
+    ]
+  ]
+}"

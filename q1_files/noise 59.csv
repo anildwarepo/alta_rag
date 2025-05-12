@@ -1,0 +1,77 @@
+title,text
+noise 59,"{
+  ""id"": 704.0059,
+  ""submitter"": ""Thomas Beatty"",
+  ""authors"": ""T. G. Beatty, J. M. Fernandez, D. W. Latham, G. A. Bakos, G. Kovacs,\n  R. W. Noyes, R. P. Stefanik, G. Torres, M. E. Everett, C. W. Hergenrother"",
+  ""title"": ""The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined\n  Eclipsing Binary HAT-TR-205-013"",
+  ""comments"": ""18 pages, 9 tables and 6 figures; accepted by ApJ. Added a reference\n  and corrected a typo"",
+  ""journal-ref"": ""Astrophys.J.663:573-582,2007"",
+  ""doi"": ""10.1086/518413"",
+  ""report-no"": null,
+  ""categories"": ""astro-ph"",
+  ""license"": null,
+  ""abstract"": ""  We derive masses and radii for both components in the single-lined eclipsing\nbinary HAT-TR-205-013, which consists of a F7V primary and a late M-dwarf\nsecondary. The system's period is short, $P=2.230736 \\pm 0.000010$ days, with\nan orbit indistinguishable from circular, $e=0.012 \\pm 0.021$. We demonstrate\ngenerally that the surface gravity of the secondary star in a single-lined\nbinary undergoing total eclipses can be derived from characteristics of the\nlight curve and spectroscopic orbit. This constrains the secondary to a unique\nline in the mass-radius diagram with $M/R^2$ = constant. For HAT-TR-205-013, we\nassume the orbit has been tidally circularized, and that the primary's rotation\nhas been synchronized and aligned with the orbital axis. Our observed line\nbroadening, $V_{\\rm rot} \\sin i_{\\rm rot} = 28.9 \\pm 1.0$ \\kms, gives a primary\nradius of $R_{\\rm A} = 1.28 \\pm 0.04$ \\rsun. Our light curve analysis leads to\nthe radius of the secondary, $R_{\\rm B} = 0.167 \\pm 0.006$ \\rsun, and the\nsemimajor axis of the orbit, $a = 7.54 \\pm 0.30 \\rsun = 0.0351 \\pm 0.0014$ AU.\nOur single-lined spectroscopic orbit and the semimajor axis then yield the\nindividual masses, $M_{\\rm B} = 0.124 \\pm 0.010$ \\msun and $M_{\\rm A} = 1.04\n\\pm 0.13$ \\msun. Our result for HAT-TR-205-013 B lies above the theoretical\nmass-radius models from the Lyon group, consistent with results from\ndouble-lined eclipsing binaries. The method we describe offers the opportunity\nto study the very low end of the stellar mass-radius relation.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 22:16:50 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Mon, 9 Apr 2007 15:50:24 GMT""
+    }
+  ],
+  ""update_date"": ""2009-06-23"",
+  ""authors_parsed"": [
+    [
+      ""Beatty"",
+      ""T. G."",
+      """"
+    ],
+    [
+      ""Fernandez"",
+      ""J. M."",
+      """"
+    ],
+    [
+      ""Latham"",
+      ""D. W."",
+      """"
+    ],
+    [
+      ""Bakos"",
+      ""G. A."",
+      """"
+    ],
+    [
+      ""Kovacs"",
+      ""G."",
+      """"
+    ],
+    [
+      ""Noyes"",
+      ""R. W."",
+      """"
+    ],
+    [
+      ""Stefanik"",
+      ""R. P."",
+      """"
+    ],
+    [
+      ""Torres"",
+      ""G."",
+      """"
+    ],
+    [
+      ""Everett"",
+      ""M. E."",
+      """"
+    ],
+    [
+      ""Hergenrother"",
+      ""C. W."",
+      """"
+    ]
+  ]
+}"

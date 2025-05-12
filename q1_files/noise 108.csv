@@ -1,0 +1,28 @@
+title,text
+noise 108,"{
+  ""id"": 704.0108,
+  ""submitter"": ""Sergey Gubin"",
+  ""authors"": ""Sergey Gubin"",
+  ""title"": ""Reducing SAT to 2-SAT"",
+  ""comments"": ""8 pages"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""cs.CC"",
+  ""license"": null,
+  ""abstract"": ""  Description of a polynomial time reduction of SAT to 2-SAT of polynomial\nsize.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 23:16:27 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Gubin"",
+      ""Sergey"",
+      """"
+    ]
+  ]
+}"

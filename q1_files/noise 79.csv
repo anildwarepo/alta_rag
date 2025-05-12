@@ -1,0 +1,35 @@
+title,text
+noise 79,"{
+  ""id"": 704.0079,
+  ""submitter"": ""Stephen C. Power"",
+  ""authors"": ""Stephen C. Power (Lancaster University), Baruch Solel (Technion)"",
+  ""title"": ""Operator algebras associated with unitary commutation relations"",
+  ""comments"": ""38 pages"",
+  ""journal-ref"": null,
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.OA"",
+  ""license"": null,
+  ""abstract"": ""  We define nonselfadjoint operator algebras with generators $L_{e_1},...,\nL_{e_n}, L_{f_1},...,L_{f_m}$ subject to the unitary commutation relations of\nthe form \\[ L_{e_i}L_{f_j} = \\sum_{k,l} u_{i,j,k,l} L_{f_l}L_{e_k}\\] where $u=\n(u_{i,j,k,l})$ is an $nm \\times nm$ unitary matrix. These algebras, which\ngeneralise the analytic Toeplitz algebras of rank 2 graphs with a single\nvertex, are classified up to isometric isomorphism in terms of the matrix $u$.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Mon, 2 Apr 2007 15:04:48 GMT""
+    }
+  ],
+  ""update_date"": ""2007-05-23"",
+  ""authors_parsed"": [
+    [
+      ""Power"",
+      ""Stephen C."",
+      """",
+      ""Lancaster University""
+    ],
+    [
+      ""Solel"",
+      ""Baruch"",
+      """",
+      ""Technion""
+    ]
+  ]
+}"

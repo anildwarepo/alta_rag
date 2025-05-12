@@ -1,0 +1,56 @@
+title,text
+noise 75,"{
+  ""id"": 704.0075,
+  ""submitter"": ""Xiang Liu"",
+  ""authors"": ""Chong Chen, Xiao-Lin Chen, Xiang Liu, Wei-Zhen Deng and Shi-Lin Zhu"",
+  ""title"": ""Strong decays of charmed baryons"",
+  ""comments"": ""13 pages, 9 figures, 9 tables. Some descriptions changed. Published\n  version in PRD"",
+  ""journal-ref"": ""Phys.Rev.D75:094017,2007"",
+  ""doi"": ""10.1103/PhysRevD.75.094017"",
+  ""report-no"": null,
+  ""categories"": ""hep-ph hep-ex nucl-ex"",
+  ""license"": null,
+  ""abstract"": ""  There has been important experimental progress in the sector of heavy baryons\nin the past several years. We study the strong decays of the S-wave, P-wave,\nD-wave and radially excited charmed baryons using the $^3P_0$ model. After\ncomparing the calculated decay pattern and total width with the available data,\nwe discuss the possible internal structure and quantum numbers of those charmed\nbaryons observed recently.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 09:45:55 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Wed, 4 Apr 2007 12:24:08 GMT""
+    },
+    {
+      ""version"": ""v3"",
+      ""created"": ""Fri, 20 Apr 2007 16:20:10 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Chen"",
+      ""Chong"",
+      """"
+    ],
+    [
+      ""Chen"",
+      ""Xiao-Lin"",
+      """"
+    ],
+    [
+      ""Liu"",
+      ""Xiang"",
+      """"
+    ],
+    [
+      ""Deng"",
+      ""Wei-Zhen"",
+      """"
+    ],
+    [
+      ""Zhu"",
+      ""Shi-Lin"",
+      """"
+    ]
+  ]
+}"

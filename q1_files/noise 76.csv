@@ -1,0 +1,32 @@
+title,text
+noise 76,"{
+  ""id"": 704.0076,
+  ""submitter"": ""Michael Gronau"",
+  ""authors"": ""Michael Gronau"",
+  ""title"": ""CP violation in beauty decays"",
+  ""comments"": ""27 pages, minor corrections, to be published in Int. J. Mod. Phys. A"",
+  ""journal-ref"": ""Int.J.Mod.Phys.A22:1953-1982,2007"",
+  ""doi"": ""10.1142/S0217751X07036579"",
+  ""report-no"": null,
+  ""categories"": ""hep-ph hep-ex"",
+  ""license"": null,
+  ""abstract"": ""  Precision tests of the Kobayashi-Maskawa model of CP violation are discussed,\npointing out possible signatures for other sources of CP violation and for new\nflavor-changing operators. The current status of the most accurate tests is\nsummarized.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 17:33:15 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Mon, 16 Apr 2007 13:15:55 GMT""
+    }
+  ],
+  ""update_date"": ""2008-11-26"",
+  ""authors_parsed"": [
+    [
+      ""Gronau"",
+      ""Michael"",
+      """"
+    ]
+  ]
+}"

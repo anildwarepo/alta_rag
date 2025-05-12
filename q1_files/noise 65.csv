@@ -1,0 +1,36 @@
+title,text
+noise 65,"{
+  ""id"": 704.0065,
+  ""submitter"": ""Alexander Molev"",
+  ""authors"": ""A. I. Molev"",
+  ""title"": ""Littlewood-Richardson polynomials"",
+  ""comments"": ""21 pages, reference to independent work of V. Kreiman was added"",
+  ""journal-ref"": ""J. Algebra 321 (2009), 3450-3468."",
+  ""doi"": null,
+  ""report-no"": null,
+  ""categories"": ""math.AG math.CO"",
+  ""license"": null,
+  ""abstract"": ""  We introduce a family of rings of symmetric functions depending on an\ninfinite sequence of parameters. A distinguished basis of such a ring is\ncomprised by analogues of the Schur functions. The corresponding structure\ncoefficients are polynomials in the parameters which we call the\nLittlewood-Richardson polynomials. We give a combinatorial rule for their\ncalculation by modifying an earlier result of B. Sagan and the author. The new\nrule provides a formula for these polynomials which is manifestly positive in\nthe sense of W. Graham. We apply this formula for the calculation of the\nproduct of equivariant Schubert classes on Grassmannians which implies a\nstability property of the structure coefficients. The first manifestly positive\nformula for such an expansion was given by A. Knutson and T. Tao by using\ncombinatorics of puzzles while the stability property was not apparent from\nthat formula. We also use the Littlewood-Richardson polynomials to describe the\nmultiplication rule in the algebra of the Casimir elements for the general\nlinear Lie algebra in the basis of the quantum immanants constructed by A.\nOkounkov and G. Olshanski.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Mon, 2 Apr 2007 01:14:48 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Mon, 16 Apr 2007 11:41:24 GMT""
+    },
+    {
+      ""version"": ""v3"",
+      ""created"": ""Mon, 16 Jul 2007 10:40:52 GMT""
+    }
+  ],
+  ""update_date"": ""2009-06-03"",
+  ""authors_parsed"": [
+    [
+      ""Molev"",
+      ""A. I."",
+      """"
+    ]
+  ]
+}"

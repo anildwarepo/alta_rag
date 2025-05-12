@@ -1,0 +1,33 @@
+title,text
+noise 56,"{
+  ""id"": 704.0056,
+  ""submitter"": ""Franz Saija"",
+  ""authors"": ""Santi Prestipino and Franz Saija"",
+  ""title"": ""Phase diagram of Gaussian-core nematics"",
+  ""comments"": ""15 pages, 1 table, 10 figures, submitted on J. Chem. Phys."",
+  ""journal-ref"": ""J. Chem. Phys. 126, 194902 (2007)"",
+  ""doi"": ""10.1063/1.2737041"",
+  ""report-no"": null,
+  ""categories"": ""cond-mat.soft cond-mat.mtrl-sci"",
+  ""license"": null,
+  ""abstract"": ""  We study a simple model of a nematic liquid crystal made of parallel\nellipsoidal particles interacting via a repulsive Gaussian law. After\nidentifying the relevant solid phases of the system through a careful\nzero-temperature scrutiny of as many as eleven candidate crystal structures, we\ndetermine the melting temperature for various pressure values, also with the\nhelp of exact free energy calculations. Among the prominent features of this\nmodel are pressure-driven reentrant melting and the stabilization of a columnar\nphase for intermediate temperatures.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sat, 31 Mar 2007 21:51:45 GMT""
+    }
+  ],
+  ""update_date"": ""2009-11-13"",
+  ""authors_parsed"": [
+    [
+      ""Prestipino"",
+      ""Santi"",
+      """"
+    ],
+    [
+      ""Saija"",
+      ""Franz"",
+      """"
+    ]
+  ]
+}"

@@ -6,6 +6,7 @@ from typing import Optional
 from dotenv import load_dotenv
 from pathlib import Path 
 import os
+from azure.identity import DefaultAzureCredential
 
 env_path = Path('.') / 'secrets.env'
 load_dotenv(dotenv_path=env_path)
@@ -13,7 +14,8 @@ load_dotenv(dotenv_path=env_path)
 
 endpoint = os.environ["AZURE_COSMOSDB_ENDPOINT"]
 key = os.environ["AZURE_COSMOSDB_KEY"]
-client = CosmosClient(endpoint, key)
+#client = CosmosClient(endpoint, key)
+client = CosmosClient(endpoint, credential=DefaultAzureCredential())
 database_name = 'vectordb'
 database = client.get_database_client(database_name)
 container_name_2partition = 'vectortest_hybridsearch_2partitions'

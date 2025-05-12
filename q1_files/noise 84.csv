@@ -1,0 +1,47 @@
+title,text
+noise 84,"{
+  ""id"": 704.0084,
+  ""submitter"": ""Baruch Meerson"",
+  ""authors"": ""Itzhak Fouxon, Baruch Meerson, Michael Assaf, Eli Livne"",
+  ""title"": ""Formation of density singularities in ideal hydrodynamics of freely\n  cooling inelastic gases: a family of exact solutions"",
+  ""comments"": ""19 pages, 7 figures"",
+  ""journal-ref"": null,
+  ""doi"": ""10.1063/1.2767361"",
+  ""report-no"": null,
+  ""categories"": ""cond-mat.soft nlin.PS physics.flu-dyn"",
+  ""license"": null,
+  ""abstract"": ""  We employ granular hydrodynamics to investigate a paradigmatic problem of\nclustering of particles in a freely cooling dilute granular gas. We consider\nlarge-scale hydrodynamic motions where the viscosity and heat conduction can be\nneglected, and one arrives at the equations of ideal gas dynamics with an\nadditional term describing bulk energy losses due to inelastic collisions. We\nemploy Lagrangian coordinates and derive a broad family of exact non-stationary\nanalytical solutions that depend only on one spatial coordinate. These\nsolutions exhibit a new type of singularity, where the gas density blows up in\na finite time when starting from smooth initial conditions. The density blowups\nsignal formation of close-packed clusters of particles. As the density blow-up\ntime $t_c$ is approached, the maximum density exhibits a power law $\\sim\n(t_c-t)^{-2}$. The velocity gradient blows up as $\\sim - (t_c-t)^{-1}$ while\nthe velocity itself remains continuous and develops a cusp (rather than a shock\ndiscontinuity) at the singularity. The gas temperature vanishes at the\nsingularity, and the singularity follows the isobaric scenario: the gas\npressure remains finite and approximately uniform in space and constant in time\nclose to the singularity. An additional exact solution shows that the density\nblowup, of the same type, may coexist with an \""ordinary\"" shock, at which the\nhydrodynamic fields are discontinuous but finite. We confirm stability of the\nexact solutions with respect to small one-dimensional perturbations by solving\nthe ideal hydrodynamic equations numerically. Furthermore, numerical solutions\nshow that the local features of the density blowup hold universally,\nindependently of details of the initial and boundary conditions.\n"",
+  ""versions"": [
+    {
+      ""version"": ""v1"",
+      ""created"": ""Sun, 1 Apr 2007 12:54:14 GMT""
+    },
+    {
+      ""version"": ""v2"",
+      ""created"": ""Wed, 9 May 2007 07:00:42 GMT""
+    }
+  ],
+  ""update_date"": ""2009-11-13"",
+  ""authors_parsed"": [
+    [
+      ""Fouxon"",
+      ""Itzhak"",
+      """"
+    ],
+    [
+      ""Meerson"",
+      ""Baruch"",
+      """"
+    ],
+    [
+      ""Assaf"",
+      ""Michael"",
+      """"
+    ],
+    [
+      ""Livne"",
+      ""Eli"",
+      """"
+    ]
+  ]
+}"
